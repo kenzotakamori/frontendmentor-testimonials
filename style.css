@@ -44,7 +44,7 @@ article .info-person p[data-id=status] {
 article h2 {
   font-size: 2rem;
 }
-article > p {
+article blockquote {
   opacity: 0.7;
 }
 
